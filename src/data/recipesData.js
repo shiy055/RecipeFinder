@@ -23,7 +23,7 @@ const recipesData = [
         time: "30 minutes",
         difficulty: "Medium",
         category: "Pizza",
-        image: "https://images.unsplash.com/photo-1548365328-860dfb2b5b8c",
+        image: "https://images.unsplash.com/photo-1595026506669-1e937fc6b9e6?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         steps: [
             "Preheat oven to 500°F.",
             "Roll out dough and spread tomato sauce.",
