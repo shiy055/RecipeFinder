@@ -7,7 +7,7 @@ const recipesData = [
         time: "25 minutes",
         difficulty: "Easy",
         category: "Pasta",
-        image: "https://images.unsplash.com/photo-1603133872872-2e8d9e1dcd2d",
+        image: "https://images.unsplash.com/photo-1574969903809-3f7a1668ceb0?q=80&w=3000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         steps: [
             "Boil spaghetti in salted water.",
             "Fry pancetta until crispy.",
@@ -23,7 +23,7 @@ const recipesData = [
         time: "30 minutes",
         difficulty: "Medium",
         category: "Pizza",
-        image: "https://images.unsplash.com/photo-1595026506669-1e937fc6b9e6?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+        image: "https://images.unsplash.com/photo-1573821663912-6df460f9c684?q=80&w=3174&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         steps: [
             "Preheat oven to 500°F.",
             "Roll out dough and spread tomato sauce.",
@@ -38,7 +38,7 @@ const recipesData = [
         time: "40 minutes",
         difficulty: "Hard",
         category: "Risotto",
-        image: "https://images.unsplash.com/photo-1602336077880-73fc4c8ce32f",
+        image: "https://images.unsplash.com/photo-1581073746562-e7fd2422f0eb?q=80&w=3274&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         steps: [
             "Sauté onions in butter.",
             "Add rice and cook until translucent.",
@@ -54,7 +54,7 @@ const recipesData = [
         time: "4 hours (chill)",
         difficulty: "Medium",
         category: "Dessert",
-        image: "https://images.unsplash.com/photo-1589307004391-140e9fcd2b6f",
+        image: "https://images.unsplash.com/photo-1707269388230-60ceceac3e6b?q=80&w=2340&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         steps: [
             "Mix mascarpone, eggs, and sugar.",
             "Dip ladyfingers in espresso.",
@@ -69,7 +69,7 @@ const recipesData = [
         time: "10 minutes",
         difficulty: "Easy",
         category: "Salad",
-        image: "https://images.unsplash.com/photo-1562967916-eb82221dfb30",
+        image: "https://plus.unsplash.com/premium_photo-1677619680447-c59cead50adc?q=80&w=3270&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
         steps: [
             "Slice mozzarella and tomatoes.",
             "Layer with basil leaves.",
