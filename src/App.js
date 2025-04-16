@@ -22,7 +22,9 @@ const App = () => {
     const inputIngredients = input.toLowerCase().split(',').map(i => i.trim());
     const matched = recipes
       .map(recipe => {
-        const matches = recipe.ingredients.filter(i => inputIngredients.includes(i));
+        const matches = recipe.ingredients.filter(ingredient =>
+          inputIngredients.some(input => ingredient.toLowerCase().includes(input))
+        );
         return { ...recipe, matchCount: matches.length };
       })
       .filter(r => r.matchCount > 0)
