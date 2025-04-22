@@ -1,4 +1,24 @@
-//Contain 50 Italian recipes across Pizza, 
+/**
+ * @file recipesData.js
+ * @description Provides a static dataset of 50 Italian recipes used by the application.
+ * Each recipe contains metadata such as ingredients, time, difficulty, category, image URL, and preparation steps.
+ */
+
+
+/**
+ * @constant {Array<Object>} recipesData
+ * @description Array of recipe objects. Used as the default data source for rendering, searching, and saving.
+ *
+ * Each recipe object contains the following fields:
+ * @property {number} id - Unique identifier for the recipe.
+ * @property {string} name - The name of the dish (e.g., "Spaghetti Carbonara").
+ * @property {Array<string>} ingredients - List of ingredient keywords used for filtering.
+ * @property {string} time - Estimated cooking or preparation time (e.g., "30 minutes").
+ * @property {string} difficulty - Difficulty level of the recipe ("Easy", "Medium", "Hard").
+ * @property {string} category - Type of dish (e.g., "Pasta", "Pizza", "Dessert").
+ * @property {string} image - URL pointing to a recipe image (sourced from Pexels or manually added).
+ * @property {Array<string>} steps - Ordered list of preparation or cooking instructions.
+ */
 const recipesData = [
     {
       "id": 1,
