@@ -627,7 +627,7 @@ const recipesData = [
       "time": "29 minutes",
       "difficulty": "Medium",
       "category": "Salad",
-      "image": "https://images.pexels.com/photos/3636100/pexels-photo-3636100.jpeg",
+      "image": "https://images.pexels.com/photos/17987073/pexels-photo-17987073/free-photo-of-person-pouring-coffee-on-ice-creams.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
       "steps": [
         "Serve with fresh herbs on top.",
         "Boil water and cook the pasta.",
@@ -649,7 +649,7 @@ const recipesData = [
       "time": "52 minutes",
       "difficulty": "Hard",
       "category": "Seafood",
-      "image": "https://source.unsplash.com/featured/?italian,food,seafood",
+      "image": "https://images.pexels.com/photos/19859289/pexels-photo-19859289/free-photo-of-small-cakes-with-cream.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
       "steps": [
         "Simmer until cooked through.",
         "Serve with fresh herbs on top.",
@@ -737,7 +737,7 @@ const recipesData = [
       "time": "51 minutes",
       "difficulty": "Hard",
       "category": "Seafood",
-      "image": "https://images.pexels.com/photos/4985536/pexels-photo-4985536.jpeg",
+      "image": "https://media.istockphoto.com/id/1421600295/photo/insalata-capricciosa.jpg?s=1024x1024&w=is&k=20&c=0WzrHBuaZ7EoxoZfvlmxRxUZhZeVFpnphnQggHlkSz4=",
       "steps": [
         "Add ingredients and stir well.",
         "Sauté garlic and onion until soft.",
@@ -847,7 +847,7 @@ const recipesData = [
       "time": "27 minutes",
       "difficulty": "Easy",
       "category": "Soup",
-      "image": "https://source.unsplash.com/featured/?italian,food,soup",
+      "image": "https://images.pexels.com/photos/27098514/pexels-photo-27098514/free-photo-of-bowl-of-tomato-soup.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
       "steps": [
         "Heat olive oil in a pan.",
         "Sauté garlic and onion until soft.",
@@ -979,7 +979,7 @@ const recipesData = [
       "time": "59 minutes",
       "difficulty": "Medium",
       "category": "Main",
-      "image": "https://images.pexels.com/photos/31507197/pexels-photo-31507197.jpeg",
+      "image": "https://images.pexels.com/photos/28371792/pexels-photo-28371792/free-photo-of-fried-meatball-indonesian-style.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2",
       "steps": [
         "Serve with fresh herbs on top.",
         "Add ingredients and stir well.",
