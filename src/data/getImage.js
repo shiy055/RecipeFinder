@@ -1,3 +1,9 @@
+/**
+ * @file getImage.js
+ * @description Provides dynamic or fallback image URLs for each recipe.
+ * @param {string} recipeName - The name of the recipe to find an image for.
+ * @returns {string} - URL to the appropriate image.
+ */
 import recipeData from './recipesData.js'
 import { createClient } from 'pexels';
 
