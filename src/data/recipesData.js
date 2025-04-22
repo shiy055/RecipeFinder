@@ -1089,7 +1089,7 @@ const recipesData = [
       "time": "29 minutes",
       "difficulty": "Medium",
       "category": "Soup",
-      "image": "https://images.pexels.com/photos/4508965/pexels-photo-4508965.jpeg",
+      "image": "https://images.pexels.com/photos/6287555/pexels-photo-6287555.jpeg",
       "steps": [
         "Boil water and cook the pasta.",
         "Heat olive oil in a pan.",
