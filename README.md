@@ -10,9 +10,8 @@ A modern, interactive web app built with React and Bootstrap that helps users di
 - 🔍 Ingredient-based search
 - 🎲 \"Surprise Me\" random recipe generator
 - 💾 Save & view favorite recipes (localStorage)
-- 🍕 Filterable categories: Pasta, Pizza, Dessert, and more
 - 📱 Responsive Bootstrap UI
-- 🖼 Beautiful food images (Unsplash)
+- 🖼 Beautiful food images (Pexel)
 
 ---
 
